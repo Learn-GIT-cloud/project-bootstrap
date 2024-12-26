@@ -1,0 +1,120 @@
+body {
+    background-color: rgba(0, 0, 0, 0.811);
+}
+
+.collapse {
+    font-size: 13px;
+}
+
+.button {
+    color: #ff014f;
+}
+
+.nav-item {
+    padding-left: 20px;
+}
+
+img {
+    width: 100%;
+}
+
+.main-content h2 {
+    font-size: 60px;
+}
+
+.main-content {
+    margin-top: 30%;
+}
+
+.main-img img {
+    width: 420px;
+}
+
+.for-co {
+    color: #ff014f;
+}
+
+.skill-details {
+    transition: 0.5s;
+}
+
+.skill-details:hover {
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.h {
+    position: absolute;
+    top: 183px;
+    left: 115px;
+}
+
+.port-img {
+    position: relative;
+}
+
+.c {
+    position: absolute;
+    top: 260px;
+    left: 145px;
+}
+
+.port-img {
+    position: relative;
+}
+
+.j {
+    position: absolute;
+    top: 305px;
+    left: 133px;
+}
+
+.content {
+    position: absolute;
+}
+
+.port-img {
+    position: relative;
+}
+
+.for-custom {
+    border-bottom: 1px solid red;
+    width: 25%;
+    border: none;
+    transition: 0.25s;
+    color: red;
+}
+
+.for-custom:hover {
+    border-bottom: 1px solid red;
+}
+
+.for-custom-2 {
+    border-bottom: 1px solid red;
+    width: 25%;
+    border: none;
+    transition: 0.25s;
+}
+
+.for-custom-2:hover {
+    border-bottom: 1px solid red;
+    color: red;
+}
+
+.main-img::before {
+    content: "";
+    position: absolute;
+    top: 70px;
+    left: 0;
+    background-color: black;
+    height: 516px;
+    width: 419px;
+    z-index: -1;
+}
+
+.b-sh {
+    position: relative;
+}
+
+.navbar-nav li a:hover {
+    color: white !important;
+}
